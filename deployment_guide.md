@@ -39,3 +39,5 @@ If you want to keep your Supabase keys safe (instead of hardcoding them in `supa
 3.  Update your `src/lib/supabase.js` to use `import.meta.env.VITE_SUPABASE_URL`.
 
 For now, since the keys are already in the code, **Step 2 is enough to get it online!** 🚀
+
+hello
