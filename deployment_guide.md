@@ -41,3 +41,4 @@ If you want to keep your Supabase keys safe (instead of hardcoding them in `supa
 For now, since the keys are already in the code, **Step 2 is enough to get it online!** 🚀
 
 hello
+how are ya?
